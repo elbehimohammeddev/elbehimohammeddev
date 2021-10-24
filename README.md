@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate with **other content creators.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elbehimohammeddev](https://github.com/elbehimohammeddev)
-
-- goal_net 2020 Goals: **Contribute more to Open Source projects**
+- 2020 Goals: **Contribute more to Open Source projects**
 
 - 📫 You can reach me on : **bahi.mohammed.dev@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/elbehimohammeddev](https://github.com/elbehimohammeddev)
 
 - 📄 Visit my Portfolio to know more about my experiences [https://myportfolio2021.herokuapp.com/](https://myportfolio2021.herokuapp.com/)
 
